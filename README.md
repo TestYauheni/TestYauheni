@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 I am a graduate in functional testing 🎓. I am a passionate learner who is always willing to learn and work with different technologies and fields 💡. I love learning new technologies and using them to solve real-world problems ✨. 
 
+
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### 📁 Testing Documentation:
 
 <div>
@@ -86,9 +91,6 @@ I am a graduate in functional testing 🎓. I am a passionate learner who is alw
 
 
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 
