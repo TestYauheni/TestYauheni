@@ -84,6 +84,19 @@ I am a graduate in functional testing 🎓. I am a passionate learner who is alw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+</p>
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/TestYauheni/Web-shop-testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/TestYauheni/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/TestYauheni/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/TestYauheni/mongoDB">MongoDB</a>  </li>
+<li>  <a href="https://github.com/TestYauheni/Mobile_Testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/TestYauheni/Charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/TestYauheni/test_gitbash"> Git Bash </a>  </li>
+</ul>
+</p>
 
 
 
